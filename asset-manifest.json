@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-forms-phonebook/static/css/main.d6e45f44.chunk.css",
+    "main.js": "/react-forms-phonebook/static/js/main.497fe10d.chunk.js",
+    "main.js.map": "/react-forms-phonebook/static/js/main.497fe10d.chunk.js.map",
+    "runtime-main.js": "/react-forms-phonebook/static/js/runtime-main.4a577c75.js",
+    "runtime-main.js.map": "/react-forms-phonebook/static/js/runtime-main.4a577c75.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/react-forms-phonebook/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.cd0c7aa6.chunk.js": "/react-forms-phonebook/static/js/2.cd0c7aa6.chunk.js",
+    "static/js/2.cd0c7aa6.chunk.js.map": "/react-forms-phonebook/static/js/2.cd0c7aa6.chunk.js.map",
+    "index.html": "/react-forms-phonebook/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/react-forms-phonebook/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.d6e45f44.chunk.css.map": "/react-forms-phonebook/static/css/main.d6e45f44.chunk.css.map",
+    "static/js/2.cd0c7aa6.chunk.js.LICENSE.txt": "/react-forms-phonebook/static/js/2.cd0c7aa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a577c75.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.cd0c7aa6.chunk.js",
+    "static/css/main.d6e45f44.chunk.css",
+    "static/js/main.497fe10d.chunk.js"
+  ]
+}
